@@ -1,5 +1,5 @@
 # hello-world
 Just new repository
 
-Hello Everybody:
+Hello Everyone:
   I want to write something what i want....
